@@ -27,6 +27,9 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1,  HBO Signature (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
+#EXTINF:-1,  HBO Family
+https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3000000=10004.m3u8
+
 #EXTINF:-1,  Cinecanal (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
@@ -62,3 +65,6 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg
 
 #EXTINF:-1,  Space (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1,  Fox Premium tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="España",MEGA
+https://edge1-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_144800_spa=20002-avc1_2499968=10007.m3u8
