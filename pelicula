@@ -66,7 +66,6 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg
 #EXTINF:-1,  Space (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
-#EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="Fox Premium"
+#EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="España",Fox Premium Family
 https://edge1-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_144800_spa=20002-avc1_2499968=10007.m3u8
-
 
