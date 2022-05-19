@@ -1,71 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1,#EXTINF:-1,tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/HBO-PLUS.jpg"group-title="España",HBO Plus
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_144800_spa=20001-avc1_2499968=10007.m3u8
+#EXTINF:-1,tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/HBO-PLUS.jpg"group-title="España",HBO Plus
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_145200_spa=20000-avc1_2499968=10007.m3u8
 
-#EXTINF:-1,HBO POP
+#EXTINF:-1,tvg-logo="https://149685581.v2.pressablecdn.com/wp-content/uploads/2021/12/7-HBO-Pop.png"group-title="España",HBO POP
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
-#EXTINF:-1, HBO MUNDI
+#EXTINF:-1, tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360057355693/hbo-mundi.png"group-title="España",HBO MUNDI
 https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-mp4a_144800_spa=20001-avc1_3450000=10004.m3u8
 
-#EXTINF:-1, HBO
+#EXTINF:-1, tvg-logo="https://www.nicepng.com/png/detail/223-2235889_hbo-icon-angry-neighbor-hello-from-home-apk.png"group-title="España",HBO
 https://edge9-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1, HBO 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png"group-title="España",HBO 2
 https://edge9-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
-#EXTINF:-1,  HBO Extreme
+#EXTINF:-1,  tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"group-title="España",HBO Extreme
 https://edge9-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
-#EXTINF:-1,  Star CINEMA
+#EXTINF:-1, tvg-logo="https://telefullenvivo.com/logos/star-cinema.png"group-title="España",Star CINEMA
 https://edge9-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-1,  FX HD
+#EXTINF:-1,  tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png"group-title="España",FX HD
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
-#EXTINF:-1,  HBO Signature (EN)
+#EXTINF:-1,  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/01/4212309559.jpg"group-title="España",HBO Signature (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
-#EXTINF:-1,  HBO Family
+#EXTINF:-1,  tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png"group-title="España",HBO Family
 https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3000000=10004.m3u8
 
-#EXTINF:-1,  Cinecanal (SUB)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"group-title="España",Cinecanal (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1,  Sony Channel (EN)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="España",Sony Channel (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-1,  Universal Channel (SUB)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1024px-Universal_Channel_Brasil.svg.png"group-title="España",Universal Channel (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
-#EXTINF:-1,  Warner Channel (SUB)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png"group-title="España",Warner Channel (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
-#EXTINF:-1,  AXN (SUB)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png"group-title="España",AXN (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
-#EXTINF:-1,  AMC (EN)
+#EXTINF:-1,  tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/black-amc-networks-png-logo-17.png"group-title="España",AMC (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1,  Cinemax (ES)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="España",Cinemax (ES)
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-1,  TCM (EN)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png"group-title="España",TCM (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 
-#EXTINF:-1,  ISAT
+#EXTINF:-1,  tvg-logo="https://www.9ine.com/hubfs/Website%20Images/New%20Logos/ISAT%20Logo.png"group-title="España",ISAT
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
 
-#EXTINF:-1,  TNTSeries (EN)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png"group-title="España",TNTSeries (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-1,  TNT (SUB)
+#EXTINF:-1,  tvg-logo="https://d14smv89t73oqm.cloudfront.net/dynamic/section/00000000/52/e98ef5c2bba1b83bdf612fd4bc08d30e18a26257_1601459542.jpg"group-title="España",TNT (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1,  Space (EN)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png"group-title="España",Space (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="España",Fox Premium Family
 https://edge1-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_144800_spa=20002-avc1_2499968=10007.m3u8
-
