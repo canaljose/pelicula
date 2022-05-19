@@ -68,3 +68,12 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="España",Fox Premium Family
 https://edge1-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_144800_spa=20002-avc1_2499968=10007.m3u8
+
+#EXTINF:-1,	tvg-logo="https://alchetron.com/cdn/studio-universal-527d93ed-6ee6-451a-ad27-4e240b05693-resize-750.png"España",Studio Universal
+https://edge2-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png"group-title="España",Paramount Channel
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
+
+#EXTINF:-1,	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png"group-title="España",AXN
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
