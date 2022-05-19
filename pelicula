@@ -3,10 +3,7 @@
 #EXTINF:-1,tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/HBO-PLUS.jpg"group-title="España",HBO Plus
 https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_145200_spa=20000-avc1_2499968=10007.m3u8
 
-#EXTINF:-1,tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/HBO-PLUS.jpg"group-title="España",HBO Plus (ESPA)
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-dfxp_10000_spa_SUBT=30001-avc1_2499968=10007.m3u8
-
-#EXTINF:-1,tvg-logo="https://149685581.v2.pressablecdn.com/wp-content/uploads/2021/12/7-HBO-Pop.png"group-title="España",HBO POP
+#EXTINF:-1,tvg-logo="https://149685581.v2.pressablecdn.com/wp-content/uploads/2021/12/7-HBO-Pop.png"group-title="España",HBO  POP
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
 #EXTINF:-1, tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360057355693/hbo-mundi.png"group-title="España",HBO MUNDI
