@@ -77,3 +77,9 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-
 
 #EXTINF:-1,	tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png"group-title="España",AXN
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
+
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png", Telered | CR
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
