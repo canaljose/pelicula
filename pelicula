@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/HBO-PLUS.jpg"group-title="España",HBO Plus
-https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-mp4a_145200_spa=20000-avc1_2499968=10007.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
-#EXTINF:-1,tvg-logo="https://149685581.v2.pressablecdn.com/wp-content/uploads/2021/12/7-HBO-Pop.png"group-title="España",HBO  POP
+#EXTINF:-1,tvg-logo="https://149685581.v2.pressablecdn.com/wp-content/uploads/2021/12/7-HBO-Pop.png"group-title="España",HBO POP
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
 #EXTINF:-1, tvg-logo="https://ayuda.tigo.com.co/hc/article_attachments/360057355693/hbo-mundi.png"group-title="España",HBO MUNDI
@@ -16,7 +16,7 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 https://edge9-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #EXTINF:-1,  tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"group-title="España",HBO Extreme
-https://edge9-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-1, tvg-logo="https://telefullenvivo.com/logos/star-cinema.png"group-title="España",Star CINEMA
 https://edge9-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
@@ -28,12 +28,12 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #EXTINF:-1,  tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png"group-title="España",HBO Family
-https://edge1-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3000000=10004.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-mp4a_144800_spa=20001-avc1_3000000=10004.m3u8
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"group-title="España",Cinecanal (SUB)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"group-title="España",Cinecanal 
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="España",Sony Channel (EN)
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="España",Sony Channel 
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1024px-Universal_Channel_Brasil.svg.png"group-title="España",Universal Channel (SUB)
@@ -69,6 +69,8 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/foxfamily_.png"group-title="España",Fox Premium Family
 https://edge1-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-mp4a_144800_spa=20002-avc1_2499968=10007.m3u8
 
+agregar canal
+
 #EXTINF:-1,	tvg-logo="https://alchetron.com/cdn/studio-universal-527d93ed-6ee6-451a-ad27-4e240b05693-resize-750.png"España",Studio Universal
 https://edge2-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
@@ -83,3 +85,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png", Telered | CR
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/e/ef/2010_Disney_Channel_logo.svg", Disney_Channel
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
