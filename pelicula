@@ -45,7 +45,7 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png"group-title="PELICULA",AXN (SUB)
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
-#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg"group-title="PELICULA",AMC (EN)
+#EXTINF:-1,  tvg-logo="https://quedeseries.es/wp-content/uploads/2020/03/Pantheon-AMC-ordena-dos-temporadas-de-series-animadas-cancelaci%C3%B3n.jpg"group-title="PELICULA",AMC (EN)
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="PELICULA",Cinemax (ES)
