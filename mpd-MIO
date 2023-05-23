@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="DEPORTES", DIRECTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="DEPORTES", DIRECTV-1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
 https://1057-vos.dtvott.com/DASH/manifest.mpd
