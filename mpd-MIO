@@ -1,5 +1,6 @@
-#EXTM3U 
+#EXTM3U list-name="Canales Premium (copyright Arcenio Gallardo)" list-image="https://instagram.fpac1-2.fna.fbcdn.net/v/t51.2885-19/298709530_762470701846099_336248434569132447_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpac1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Hv1xjjzTPFkAX86o6Ps&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfBw-Dj3007x62g6IxcxQjOKkiOuWZHHElh5oMh7c3S0fg&oe=637AE991&_nc_sid=6136e7"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="DEPORTES", DIRECTV-1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
 https://1057-vos.dtvott.com/DASH/manifest.mpd
