@@ -1,5 +1,6 @@
 #EXTM3U 
-#BigplayerPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#BigplayerPROP:inputstream.adaptive.license_key=https://Bigplayer.app/videos/lic 
-#EXTINF:-1 tvg-logo="https://Bigplayer.app/img/logo.png" tvg-group="GRUPO", arcenio 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="DEPORTES", DIRECTV SPORTS UY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
