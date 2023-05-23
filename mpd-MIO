@@ -1,13 +1,5 @@
 #EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/vtvpuy.json
-https://1246-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YbbKjxc/bcs.jpg" tvg-group="DEPORTES", BESTCABLE SPORTS
-https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZdDnH8N/Cdo.jpg" tvg-group="DEPORTES", CDO PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1043,98 +1035,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1021/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HqHHhwQ/playboy.png" tvg-group="XXX", PLAYBOY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/playboy.json
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chyp5Vc/sextreme.png" tvg-group="XXX", SEXTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/sextreme.json
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" tvg-group="XXX", VENUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/venus.json
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Anal
-http://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Asian
-http://cdn.adultiptv.net/asian.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Gay
-http://cdn.adultiptv.net/gay.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Latina
-http://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX MILF
-http://cdn.adultiptv.net/milf.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX POV
-http://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Rough
-http://cdn.adultiptv.net/rough.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Russian
-http://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Teen
-http://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX",XXX Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX", XXX Woman
-http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" tvg-group="ARGENTINA", AMERICA 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
